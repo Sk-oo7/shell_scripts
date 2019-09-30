@@ -18,4 +18,4 @@ sudo apt update && sudo apt upgrade -y
 
 sudo apt install build-essential bc -y
 
-sudo apt get install chrome
+sudo apt-get install google-chrome-stable
